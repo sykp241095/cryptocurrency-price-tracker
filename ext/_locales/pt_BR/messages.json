@@ -1,0 +1,9 @@
+{
+  "extName": {
+    "message": "Rastreador de Preços de Criptomoedas"
+  },
+
+  "extDesc": {
+    "message": "Esta extensão pode acompanhar o preço das principais criptomoedas (incluindo Bitcoin, Ethereum e etc.) em tempo quase real."
+  }
+}

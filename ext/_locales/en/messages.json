@@ -1,0 +1,9 @@
+{
+  "extName": {
+    "message": "Cryptocurrency Price Tracker"
+  },
+
+  "extDesc": {
+    "message": "This extension can track the price of major cryptocurrencies (including Bitcoin, BCH, ETH, LTC, XRP, EOS...) in nearly real-time."
+  }
+}

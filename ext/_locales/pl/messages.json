@@ -1,0 +1,9 @@
+{
+  "extName": {
+    "message": "Śledzenie Cen Kryptowalut"
+  },
+
+  "extDesc": {
+    "message": "Ta wtyczka pozwala na śledzenie cen najważniejszych kryptowalut (w tym Bitcoina, Ethereum i innych) niemalże w czasie rzeczywistym."
+  }
+}

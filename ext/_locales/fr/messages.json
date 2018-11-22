@@ -1,0 +1,9 @@
+{
+  "extName": {
+    "message": "Traqueur de cours de monnaie cryptographique"
+  },
+
+  "extDesc": {
+    "message": "Cette extension peut traquer le cours des principales monnaies cryptographiques (telles que le bitcoin, l'ethereum, etc.) quasiment en temps réel."
+  }
+}

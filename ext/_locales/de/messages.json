@@ -1,0 +1,9 @@
+{
+  "extName": {
+    "message": "Kryptowährung Preis-Verfolgung"
+  },
+
+  "extDesc": {
+    "message": "Diese Erweiterung kann den Preis der großen Kryptowährungen (inklusive Bitcoin, Ethereum usw.) fast in Echtzeit verfolgen."
+  }
+}

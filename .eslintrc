@@ -1,0 +1,36 @@
+---
+parser: babel-eslint
+
+extends:
+  - airbnb
+
+env:
+  browser: true
+
+globals:
+  __DEV__: true
+  _: true
+  $: false
+  jQuery: true
+  chrome: true
+
+rules:
+  no-shadow: 0
+  func-names: 0
+  arrow-body-style: 0
+  no-plusplus: 0
+  no-param-reassign: 0
+  no-mixed-operators: 0
+  no-underscore-dangle: 0
+  class-methods-use-this: 0
+  react/prop-types: 0
+  react/forbid-prop-types: 0
+  react/no-array-index-key: 0
+  react/prefer-stateless-function: 0
+  import/prefer-default-export: 0
+  import/no-webpack-loader-syntax: 0
+  import/no-extraneous-dependencies: [error, { devDependencies: true }]
+
+parserOptions:
+  ecmaVersion: 2017
+  sourceType: module

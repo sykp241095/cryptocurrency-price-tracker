@@ -1,0 +1,9 @@
+{
+  "extName": {
+    "message": "数字货币价格追踪 - 支持比特币(Bitcoin)、以太坊(Eth)、BCH、EOS和XRP等"
+  },
+
+  "extDesc": {
+    "message": "本插件可跟踪比特币、以太币等几乎所有主流数字货币的实时及历史价格趋势。"
+  }
+}
