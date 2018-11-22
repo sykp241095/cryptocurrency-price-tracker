@@ -38,8 +38,6 @@
     "webpack-dev-server": "^2.9.5"
   },
   "dependencies": {
-    "@ea-utils/ce-helper": "^1.0.0",
-    "@ea-utils/fx-helper": "^1.0.0",
     "chart.js": "^2.7.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
